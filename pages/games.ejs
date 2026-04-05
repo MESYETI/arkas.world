@@ -10,7 +10,7 @@
 			<table style="gamesTable">
 			<% for (let i = games.length - 1; i != -1; --i) { %>
 				<% let game = games[i]; %>
-				<%- include("partial/game", {game: game}); %>
+				<%- include("partial/game", {game: game, i: i}); %>
 			<% } %>
 			</table>
 		</div>

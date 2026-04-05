@@ -1,26 +1,12 @@
 [
 	{
 		"name": "Arkas Sandbox",
-		"thumb": "/thumb/1.png",
 		"description": "Arkas Sandbox is a sandbox game allowing players to create mods with the Lua programming language",
-		"author": "MESYETI"
-	},
-	{
-		"name": "Arkas Sandbox",
-		"thumb": "/thumb/1.png",
-		"description": "Arkas Sandbox is a sandbox game allowing players to create mods with the Lua programming language",
-		"author": "MESYETI"
-	},
-	{
-		"name": "Arkas Sandbox",
-		"thumb": "/thumb/1.png",
-		"description": "Arkas Sandbox is a sandbox game allowing players to create mods with the Lua programming language",
-		"author": "MESYETI"
-	},
-	{
-		"name": "Arkas Sandbox",
-		"thumb": "/thumb/1.png",
-		"description": "Arkas Sandbox is a sandbox game allowing players to create mods with the Lua programming language",
-		"author": "MESYETI"
+		"author": "MESYETI",
+		"download": false,
+		"fullDesc": [
+			"Arkas Sandbox is a WIP sandbox game allowing players to create mods with the Lua programming language. It acts as an easy way to develop for the Arkas Engine.",
+			"This game will become available in the near future, soon after support for multiplayer in Arkas Engine is complete"
+		]
 	}
 ]
