@@ -17,6 +17,10 @@ app.get("/", (req, res) => {
 	res.render("index", {});
 });
 
+app.get("/engine", (req, res) => {
+	res.render("engine", {});
+})
+
 app.get("/games", (req, res) => {
 	let games = JSON.parse(fs.readFileSync("games.json", "utf8"));
 
